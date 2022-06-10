@@ -1,4 +1,4 @@
-# hilow
+# Activity 7 High Low Card Game
 
 A new Flutter project.
 
